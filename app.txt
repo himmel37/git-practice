@@ -2,3 +2,4 @@
 bbbbbbbbb
 암것도 안함
 squash
+커밋1 취소 안할거
