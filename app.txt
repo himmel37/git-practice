@@ -1,10 +1,7 @@
-aaaaaaaaaaaaaaa
-
-
-aaaaaaaaaaaaaaa
-
-bbbbbbbbbbbbbbb
-
-bbbbbb
-
-ccccccvbbbbb
+이거슨 메인 브랜치
+bbbbbbbbb
+암것도 안함
+squash
+커밋1 취소 안할거
+커밋2 취소 할거
+커밋3 취소 안할거
